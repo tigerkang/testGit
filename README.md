@@ -1,2 +1,4 @@
 # testGit
-eclipse Git demo
+>eclipse Git demo
+```shell
+$ git clone testGit
