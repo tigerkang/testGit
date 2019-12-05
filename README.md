@@ -2,8 +2,7 @@
 >eclipse Git demo
 ```shell
 $ git clone testGit
-create branch hotfix
-modify hotfix
-goto beijng
-checkout
 ```
+>create branch hotfix
+>modify hotfix
+>checkout
